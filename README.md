@@ -1,2 +1,0 @@
-# ATM-PROJECT
-ATM Project
